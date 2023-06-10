@@ -1,2 +1,2 @@
-email :
-gitID :
+email : hjp6223@naver.com		
+gitID :J-pyo
